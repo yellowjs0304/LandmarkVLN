@@ -1,0 +1,11 @@
+None
+bathroom
+bedroom
+dining_room
+doorway/outdoor
+garage/indoor
+kitchen
+patio
+staircase
+swimming_pool/indoor
+swimming_pool/outdoor
